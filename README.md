@@ -1,6 +1,6 @@
 # System Cache Cleaner
 A simple and automated shell script designed to clean up system cache and temporary files on macOS, Linux, and BSD platforms.
-This tool helps users to free up disk space, remove unnecessary cached data, and improve system performance.
+This tool helps users free up disk space, remove unnecessary cached data, and improve system performance.
 
 # 🚀 Features
 - Automatically detect your operating system (macOS, Linux, BSD)
@@ -33,16 +33,16 @@ chmod +x clean_cache.sh
 
 > [!WARNING]
 > Use this script at your own risk.
-> This script will permanently delete cache and temporary files without confirmation prompts.
-> It is recommended to review and customize the script before running it, especially if you store important data in cache folders.
+> This script permanently deletes the cache and temporary files without confirmation prompts.
+> Reviewing and customizing the script before running it is recommended, especially if you store important data in cache folders.
 
 # ✅ Example Output
 ```
 Checking system type...
 Detected OS: Darwin
-macOS system detected. Starting cache cleanup...
-macOS cache cleanup completed!
+The macOS system is detected. Starting cache cleanup...
+The macOS cache cleanup is completed!
 ```
 # License
-This project is open source and licensed under the MIT License.
+This open-source project is licensed under the MIT [License](LICENSE).
 
