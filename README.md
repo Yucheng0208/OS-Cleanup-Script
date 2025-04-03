@@ -14,7 +14,7 @@ This tool helps users free up disk space, remove unnecessary cached data, and im
 | :-----: | :-------: | :-----------------------: |
 | macOS	| ✅ | Caches, Logs, Trash, Xcode DerivedData, Safari & Chromium-based browsers cache |
 | Linux |	✅ | User cache, system cache, temp directories, trash bin |
-| BSD (FreeBSD, OpenBSD, NetBSD) ｜ ✅ ｜ System temp and cache directories, user cache |
+| BSD <br/> (FreeBSD, OpenBSD, NetBSD) | ✅ | System temp and cache directories, user cache |
 
 ## ⚙️ Usage
 1. Download or clone this script
